@@ -203,6 +203,16 @@ The application is deployed using **Render** with:
 
 ---
 
+## Live Application
+**Render Deployment**
+
+https://rising-waters-ml-flood-prediction-system.onrender.com
+
+**Source Code Repository**
+https://github.com/A-Geetha-Sree/Rising-Waters-ML-Flood-Prediction.git
+
+---
+
 ## 👥 Team Members
 
 ### Gayatri Botcha
